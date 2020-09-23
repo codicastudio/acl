@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/acl",
+    "name": "codica-studio/acl",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/acl",
+    "homepage": "https://github.com/codica-studio/acl",
     "license": "MIT",
     "authors": [
         {
