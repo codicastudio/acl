@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/acl",
+    "name": "codicastudio/permissions",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/acl",
+    "homepage": "https://github.com/codicastudio/permissions",
     "license": "MIT",
     "authors": [
         {
@@ -51,6 +51,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
